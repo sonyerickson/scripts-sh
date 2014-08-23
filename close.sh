@@ -2,7 +2,7 @@
 
 echo
 echo "##########################################"
-echo "Fechando portas dos principais programas!!"
+echo "           Closing doors script!!"
 echo "##########################################"
 echo
 
