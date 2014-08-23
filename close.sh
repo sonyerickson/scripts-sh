@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Version 0.1"
 echo
 echo "##########################################"
 echo "           Closing doors script!!"
