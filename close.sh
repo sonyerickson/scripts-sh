@@ -1,6 +1,6 @@
 #!/bin/bash
-
-echo "Version 0.1"
+clear
+echo "Version 0.2"
 echo
 echo "##########################################"
 echo "           Closing doors script!!"
@@ -72,7 +72,7 @@ then
 	echo "VMWARE Encerrado"
 	fi
 
-	if [ $HOSTNAME = Debian ]
+	if [ $HOSTNAME = debian ]
 	then
 	echo "Máquina: Debian"
 	echo 
